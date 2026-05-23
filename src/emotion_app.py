@@ -11,10 +11,10 @@ from fer import FER
 # ── 1. Setup ──────────────────────────────────────────────────────────────────
 
 # Load the emotion detector (set mtcnn=True for better accuracy, but slower)
-detector = FER(mtcnn=False)
+detector = FER(mtcnn=True)
 
 # Open webcam (0 = default camera)
-cap = cv2.VideoCapture("myvideo.mp4")
+cap = cv2.VideoCapture("rajpalji.mp4")
 
 if not cap.isOpened():
     print("❌ Could not open webcam. Check your camera connection.")
