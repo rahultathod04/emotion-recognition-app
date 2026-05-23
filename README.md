@@ -227,7 +227,8 @@ python src/emotion_app_v3.py
 ## 👤 Author
 
 **Rahul Tathod**
-- 🐙 GitHub: [@rahultathod04](https://github.com/rahultathod04)
+-  [GitHub](https://github.com/rahultathod04)
+-  [linkedin](https://www.linkedin.com/in/rahul-tathod-498080409?utm_source=share_via&utm_content=profile&utm_medium=member_android)
 
 ---
 
